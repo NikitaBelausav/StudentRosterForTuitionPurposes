@@ -11,5 +11,5 @@ This project was created by a team of two people I particularly worked on
 
 # Front-End
 
--Created the main-view using scenebuilder in javaFX, mostly focusing on the roster functionalities in the first tab like add,remove,setting study abroad status, and print methods in the fourth tab. My partner primarily worked on the middle tabs of calculating tuition and setting financial aid, along with payments. 
+-Created the main-view using scenebuilder in javaFX, mostly focusing on the roster functionalities in the first tab like add,remove,setting study abroad status, and print methods in the fourth tab and calculating tuition. My partner primarily worked on setting financial aid, along with payments. 
 -Carefully programmed the controller to make sure that the input would never allow for an exception, and to print to the outputfield what the issue with their input is so the user can fix it. Only functionalities related to the choices made by the user are ever allowed to be used, for example to set a student for being able to study abroad the buttons are hidden until you select the international student residency button. 
