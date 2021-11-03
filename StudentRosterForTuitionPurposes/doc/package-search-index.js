@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"project.two"},{"l":"unitTesting"}]
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"com.example.projectthree","l":"tuition"}];updateSearchResults();
